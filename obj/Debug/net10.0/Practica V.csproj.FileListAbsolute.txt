@@ -1,0 +1,14 @@
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\bin\Debug\net10.0\Practica V.exe
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\bin\Debug\net10.0\Practica V.deps.json
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\bin\Debug\net10.0\Practica V.runtimeconfig.json
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\bin\Debug\net10.0\Practica V.dll
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\bin\Debug\net10.0\Practica V.pdb
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.dll
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\refint\Practica V.dll
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.pdb
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\Practica V.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Desktop\ETS_escritorio\Practica V\obj\Debug\net10.0\ref\Practica V.dll
