@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public static class NumeroArmstrong
 {
-    static bool EsNumeroArmstrong(int numero)
+    public static bool EsNumeroArmstrong(int numero)
     {
         if (numero < 0)
             return false;
@@ -19,21 +19,5 @@ class Program
         }
 
         return suma == original;
-    }
-
-    static void Main()
-    {
-        Console.Write("Introduce un número entero: ");
-        if (int.TryParse(Console.ReadLine(), out int num))
-        {
-            if (EsNumeroArmstrong(num))
-                Console.WriteLine($"{num} ES un número de Armstrong.");
-            else
-                Console.WriteLine($"{num} NO es un número de Armstrong.");
-        }
-        else
-        {
-            Console.WriteLine("Entrada no válida.");
-        }
     }
 }
