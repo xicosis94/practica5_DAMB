@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\OneDrive\\Desktop\\ETS_escritorio\\Practica V\\Practica V.csproj": {}
+    "C:\\Users\\sarderius\\Desktop\\Actividad5_ETS\\practica5_DAMB\\Practica V.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\OneDrive\\Desktop\\ETS_escritorio\\Practica V\\Practica V.csproj": {
+    "C:\\Users\\sarderius\\Desktop\\Actividad5_ETS\\practica5_DAMB\\Practica V.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Desktop\\ETS_escritorio\\Practica V\\Practica V.csproj",
+        "projectUniqueName": "C:\\Users\\sarderius\\Desktop\\Actividad5_ETS\\practica5_DAMB\\Practica V.csproj",
         "projectName": "Practica V",
-        "projectPath": "C:\\Users\\lucia\\OneDrive\\Desktop\\ETS_escritorio\\Practica V\\Practica V.csproj",
-        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\OneDrive\\Desktop\\ETS_escritorio\\Practica V\\obj\\",
+        "projectPath": "C:\\Users\\sarderius\\Desktop\\Actividad5_ETS\\practica5_DAMB\\Practica V.csproj",
+        "packagesPath": "C:\\Users\\sarderius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarderius\\Desktop\\Actividad5_ETS\\practica5_DAMB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sarderius\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
