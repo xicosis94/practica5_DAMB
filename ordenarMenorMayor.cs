@@ -1,9 +1,11 @@
 using System;
 using System.Collections.Generic;
 
-class Program
+namespace Practica_V;
+
+public static class ordenarMenorMayor
 {
-    static void Main()
+    public static void Ejecutar()
     {
         List<int> listaTemporal = new List<int>();
         string entrada;
@@ -41,10 +43,19 @@ class Program
         }
 
         // Convertir la lista a Array y ordenarlo de menor a mayor
-        int[] numeros = listaTemporal.ToArray();
-        Array.Sort(numeros);
+        int[] numeros = Ordenar(listaTemporal.ToArray());
 
         Console.WriteLine("\nNúmeros ordenados de menor a mayor:");
         Console.WriteLine(string.Join(", ", numeros));
+    }
+
+    public static int[] Ordenar(int[] numeros)
+    {
+        if (numeros == null)
+            throw new ArgumentNullException(nameof(numeros));
+
+        int[] numerosOrdenados = (int[])numeros.Clone();
+        Array.Sort(numerosOrdenados);
+        return numerosOrdenados;
     }
 }
