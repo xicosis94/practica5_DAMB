@@ -33,7 +33,8 @@ switch (opcion)
        calcularDesviacionTipica.Ejecutar();
         break;
     case "7":
-       
+       cambioBinarizacion.Ejecutar();
+        break;
     default:
         Console.WriteLine("Opción no válida.");
         break;
